@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 2308939078
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 22bf280c2893929cdd6f48ca652cef02
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bcdcaa613297e3d2e63ac54950f33cff
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: eccc0acc1b6dea94c97b3dfd9dd882e5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Arrow2.prefab
+- Assets/Arrow3.prefab
+- Assets/Arrow1.prefab
+Dependencies:
+- C:/Users/roitr/Documents/ProjectFiles/MOBIGAM/Projects/Into the Darkness - MOBIGAM/AssetBundles/Android/bullet_texture

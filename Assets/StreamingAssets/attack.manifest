@@ -1,0 +1,19 @@
+ManifestFileVersion: 0
+CRC: 229350241
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4dd71b85c406831667b95aa63c94221
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a2710c44093a767baf06bf42b93d95fb
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Enemy/AttackAnim.anim
+Dependencies:
+- C:/Users/roitr/Documents/ProjectFiles/MOBIGAM/Projects/Into the Darkness - MOBIGAM/AssetBundles/Android/texture

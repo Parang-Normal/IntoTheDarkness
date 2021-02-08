@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3867490738
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b5747d325db83a6df830dff2ed1bc5f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+Assets:
+- Assets/RpgBgmDungeon/Audio_MainMenu.wav
+Dependencies: []

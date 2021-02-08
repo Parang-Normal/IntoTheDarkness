@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 3981038537
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8ec92ba0c783a2cd71fceb9fb443bb6b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 62273eccaa001e30449654451a30e42f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Enemy/Prefab/Enemy1.prefab
+Dependencies:
+- C:/Users/Marielle Denishe/Desktop/1st Term - 3rd Year/MOBIGAM/Into the Darkness
+  - MOBIGAM/AssetBundles/Android/attack
+- C:/Users/Marielle Denishe/Desktop/1st Term - 3rd Year/MOBIGAM/Into the Darkness
+  - MOBIGAM/AssetBundles/Android/texture

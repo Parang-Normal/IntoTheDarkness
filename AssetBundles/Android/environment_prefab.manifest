@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 53505614
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a828cbceb157ab894212ca3a598af2d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 25b0de44755a2b3dd1af8bc0a7e5588f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Environment/Battleground2.prefab
+- Assets/Environment/Battleground1.prefab
+- Assets/Environment/Battleground4.prefab
+- Assets/Environment/Battleground3.prefab
+Dependencies:
+- C:/Users/roitr/Documents/ProjectFiles/MOBIGAM/Projects/Into the Darkness - MOBIGAM/AssetBundles/Android/environment_texture

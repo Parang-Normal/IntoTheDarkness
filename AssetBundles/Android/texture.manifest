@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2793907222
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ebe8b858c8de7e76ff5d33e9f9eaffdd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Enemy/Attack4.png
+- Assets/Enemy/Attack2.png
+- Assets/Enemy/Attack3.png
+- Assets/Enemy/Attack1.png
+Dependencies: []

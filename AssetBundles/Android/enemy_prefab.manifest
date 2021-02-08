@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 257841850
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a4bfcc11cfcdc2d57b62c6d51774bea7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 28234798f768fc7a121fd2e5dc9f9b8b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3726a3b18005bc94daace33d8f63ec07, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Enemy/Enemy3/Prefab/Enemy3.prefab
+- Assets/Enemy/Enemy2/Prefab/Enemy2.prefab
+- Assets/Enemy/Boss2/Prefab/Boss2.prefab
+- Assets/Enemy/Boss1/Prefab/Boss1.prefab
+- Assets/Enemy/Boss3/Prefab/Boss3.prefab
+- Assets/Enemy/Enemy1/Prefab/Enemy1.prefab
+Dependencies:
+- C:/Users/roitr/Documents/ProjectFiles/MOBIGAM/Projects/Into the Darkness - MOBIGAM/AssetBundles/Android/enemy_texture
+- C:/Users/roitr/Documents/ProjectFiles/MOBIGAM/Projects/Into the Darkness - MOBIGAM/AssetBundles/Android/enemy_animation

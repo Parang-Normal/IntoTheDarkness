@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 878424345
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 0b4e3a5604cd4729a07b7cf2213e0b34
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a2710c44093a767baf06bf42b93d95fb
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Player/Player_Death.anim
+- Assets/Player/Player_Attack.anim
+Dependencies:
+- C:/Users/roitr/Documents/ProjectFiles/MOBIGAM/Projects/Into the Darkness - MOBIGAM/AssetBundles/Android/player_texture

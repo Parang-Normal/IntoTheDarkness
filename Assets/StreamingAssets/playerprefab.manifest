@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 4144192997
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7a6dea1e1e9e6ad5ce002e9469b910e1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bd7ea3fff2baa9480b658ebf50d247e3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Player/Player.prefab
+Dependencies:
+- C:/Users/roitr/Documents/ProjectFiles/MOBIGAM/Projects/Into the Darkness - MOBIGAM/AssetBundles/Android/playertexture
+- C:/Users/roitr/Documents/ProjectFiles/MOBIGAM/Projects/Into the Darkness - MOBIGAM/AssetBundles/Android/playeranimation

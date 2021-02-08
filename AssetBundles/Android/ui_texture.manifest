@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1817472716
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4ad2b8f1127417b6061d08122630c293
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UI/ui_Background.png
+- Assets/UI/01_LevelButton.png
+- Assets/UI/MainMenuButton.png
+- Assets/UI/FireButton.png
+- Assets/UI/04_LevelButton.png
+- Assets/UI/LoadingBar.png
+- Assets/UI/ShopPanel.png
+- Assets/UI/MainMenu_Play.png
+- Assets/UI/03_LevelButton.png
+- Assets/UI/02_LevelButton.png
+- Assets/UI/PauseButton.png
+- Assets/UI/ButtonBG.png
+- Assets/UI/MainMenu_Exit.png
+Dependencies: []

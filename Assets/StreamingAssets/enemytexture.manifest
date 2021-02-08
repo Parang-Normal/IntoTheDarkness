@@ -1,0 +1,116 @@
+ManifestFileVersion: 0
+CRC: 4257644352
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 659ee3efe02e9241d9215e564fd30b18
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Enemy/Boss2/02_Boss_Death1.png
+- Assets/Enemy/Boss1/01_Boss_Attack4.png
+- Assets/Enemy/Boss1/01_Boss_Attack8.png
+- Assets/Enemy/Boss1/01_Boss_Walk3.png
+- Assets/Enemy/Enemy2/02_Enemy_Death5.png
+- Assets/Enemy/Boss2/02_Boss_Death5.png
+- Assets/Enemy/Boss2/02_Boss_Attack1.png
+- Assets/Enemy/Boss1/01_Boss_Attack5.png
+- Assets/Enemy/Enemy3/03_Enemy_Attack3.png
+- Assets/Enemy/Enemy2/02_Enemy_Walk2.png
+- Assets/Enemy/Boss2/02_Boss_Death4.png
+- Assets/Enemy/Boss1/01_Boss_Attack2.png
+- Assets/Enemy/Enemy1/01_Enemy_Death2.png
+- Assets/Enemy/Enemy2/02_Enemy_Death4.png
+- Assets/Enemy/Boss2/02_Boss_Walk4.png
+- Assets/Enemy/Enemy1/01_Enemy_Walk1.png
+- Assets/Enemy/Boss1/01_Boss_Death4.png
+- Assets/Enemy/Enemy2/02_Enemy_Attack1.png
+- Assets/Enemy/Enemy1/01_Enemy_Walk4.png
+- Assets/Enemy/Boss1/01_Boss_Attack9.png
+- Assets/Enemy/Enemy2/02_Enemy_Walk4.png
+- Assets/Enemy/Enemy2/02_Enemy_Attack3.png
+- Assets/Enemy/Enemy1/01_Enemy_Attack4.png
+- Assets/Enemy/Enemy2/02_Enemy_Attack4.png
+- Assets/Enemy/Enemy3/03_Enemy_Death1.png
+- Assets/Enemy/Boss3/03_Boss_Walk7.png
+- Assets/Enemy/Boss3/03_Boss_Attack1.png
+- Assets/Enemy/Boss3/03_Boss_Walk3.png
+- Assets/Enemy/Boss2/02_Boss_Attack4.png
+- Assets/Enemy/Enemy1/01_Enemy_Walk3.png
+- Assets/Enemy/Enemy2/02_Enemy_Walk3.png
+- Assets/Enemy/Enemy3/03_Enemy_Death3.png
+- Assets/Enemy/Boss2/02_Boss_Death3.png
+- Assets/Enemy/Boss3/03_Boss_Death2.png
+- Assets/Enemy/Enemy3/03_Enemy_Attack7.png
+- Assets/Enemy/Boss2/02_Boss_Attack6.png
+- Assets/Enemy/Enemy1/01_Enemy_Attack2.png
+- Assets/Enemy/Enemy2/02_Enemy_Death6.png
+- Assets/Enemy/Enemy3/03_Enemy_Walk4.png
+- Assets/Enemy/Enemy3/03_Enemy_Walk1.png
+- Assets/Enemy/Boss1/01_Boss_Attack6.png
+- Assets/Enemy/Boss3/03_Boss_Death4.png
+- Assets/Enemy/Boss2/02_Boss_Attack5.png
+- Assets/Enemy/Boss3/03_Boss_Walk4.png
+- Assets/Enemy/Enemy1/01_Enemy_Death1.png
+- Assets/Enemy/Boss3/03_Boss_Death3.png
+- Assets/Enemy/Boss2/02_Boss_Death2.png
+- Assets/Enemy/Enemy1/01_Enemy_Death3.png
+- Assets/Enemy/Enemy3/03_Enemy_Attack6.png
+- Assets/Enemy/Enemy3/03_Enemy_Attack4.png
+- Assets/Enemy/Boss3/03_Boss_Death6.png
+- Assets/Enemy/Enemy2/02_Enemy_Walk1.png
+- Assets/Enemy/Boss3/03_Boss_Attack4.png
+- Assets/Enemy/Boss3/03_Boss_Attack3.png
+- Assets/Enemy/Enemy3/03_Enemy_Death4.png
+- Assets/Enemy/Boss3/03_Boss_Death1.png
+- Assets/Enemy/Boss2/02_Boss_Attack2.png
+- Assets/Enemy/Boss1/01_Boss_Walk5.png
+- Assets/Enemy/Enemy2/02_Enemy_Walk6.png
+- Assets/Enemy/Enemy1/01_Enemy_Attack3.png
+- Assets/Enemy/Enemy2/02_Enemy_Death2.png
+- Assets/Enemy/Enemy1/01_Enemy_Attack1.png
+- Assets/Enemy/Enemy2/02_Enemy_Death1.png
+- Assets/Enemy/Boss1/01_Boss_Walk4.png
+- Assets/Enemy/Enemy1/01_Enemy_Death5.png
+- Assets/Enemy/Enemy1/01_Enemy_Death4.png
+- Assets/Enemy/Enemy3/03_Enemy_Attack5.png
+- Assets/Enemy/Boss1/01_Boss_Attack7.png
+- Assets/Enemy/Boss1/01_Boss_Attack3.png
+- Assets/Enemy/Enemy3/03_Enemy_Attack2.png
+- Assets/Enemy/Boss3/03_Boss_Attack5.png
+- Assets/Enemy/Boss1/01_Boss_Attack1.png
+- Assets/Enemy/Boss1/01_Boss_Death2.png
+- Assets/Enemy/Enemy3/03_Enemy_Walk3.png
+- Assets/Enemy/Enemy3/03_Enemy_Walk2.png
+- Assets/Enemy/Boss2/02_Boss_Walk1.png
+- Assets/Enemy/Boss3/03_Boss_Walk1.png
+- Assets/Enemy/Boss1/01_Boss_Walk1.png
+- Assets/Enemy/Enemy2/02_Enemy_Death3.png
+- Assets/Enemy/Enemy1/01_Enemy_Death6.png
+- Assets/Enemy/Boss2/02_Boss_Walk3.png
+- Assets/Enemy/Enemy2/02_Enemy_Attack2.png
+- Assets/Enemy/Enemy3/03_Enemy_Attack1.png
+- Assets/Enemy/Enemy1/01_Enemy_Walk2.png
+- Assets/Enemy/Enemy3/03_Enemy_Death2.png
+- Assets/Enemy/Boss1/01_Boss_Walk2.png
+- Assets/Enemy/Boss1/01_Boss_Death3.png
+- Assets/Enemy/Boss3/03_Boss_Walk2.png
+- Assets/Enemy/Enemy2/02_Enemy_Walk5.png
+- Assets/Enemy/Boss1/01_Boss_Death5.png
+- Assets/Enemy/Boss2/02_Boss_Walk2.png
+- Assets/Enemy/Boss2/02_Boss_Death6.png
+- Assets/Enemy/Enemy3/03_Enemy_Attack9.png
+- Assets/Enemy/Boss3/03_Boss_Attack2.png
+- Assets/Enemy/Boss3/03_Boss_Death5.png
+- Assets/Enemy/Boss2/02_Boss_Attack3.png
+- Assets/Enemy/Boss1/01_Boss_Death1.png
+- Assets/Enemy/Boss3/03_Boss_Walk5.png
+- Assets/Enemy/Enemy3/03_Enemy_Attack8.png
+Dependencies: []

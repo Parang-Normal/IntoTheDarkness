@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2090127702
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08588993db712bc367b4d5686c847ae7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Player/Player_Attack12.png
+- Assets/Player/Player_Death4.png
+- Assets/Player/Player_Death11.png
+- Assets/Player/Player_Attack6.png
+- Assets/Player/Player_Attack11.png
+- Assets/Player/Player_Attack5.png
+- Assets/Player/Player_Attack1.png
+- Assets/Player/Player_Death6.png
+- Assets/Player/Player_Death12.png
+- Assets/Player/Player_Death15.png
+- Assets/Player/Player_Death8.png
+- Assets/Player/Player_Attack9.png
+- Assets/Player/Player_Death9.png
+- Assets/Player/Player_Death7.png
+- Assets/Player/Player_Death2.png
+- Assets/Player/Player_Death14.png
+- Assets/Player/Player_Death5.png
+- Assets/Player/Player_Death3.png
+- Assets/Player/Player_Attack7.png
+- Assets/Player/Player_Attack3.png
+- Assets/Player/Player_Attack10.png
+- Assets/Player/Player_Death1.png
+- Assets/Player/Player_Attack8.png
+- Assets/Player/Player_Attack13.png
+- Assets/Player/Player_Death13.png
+- Assets/Player/Player_Attack4.png
+- Assets/Player/Player_Death10.png
+- Assets/Player/Player_Attack2.png
+Dependencies: []

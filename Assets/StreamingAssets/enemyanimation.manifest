@@ -1,0 +1,36 @@
+ManifestFileVersion: 0
+CRC: 1918828850
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a33f5d6d9a7b4ef8f86762f8b071f043
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a2710c44093a767baf06bf42b93d95fb
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Enemy/Enemy3/03_Attack.anim
+- Assets/Enemy/Boss3/03_BossDeath.anim
+- Assets/Enemy/Boss1/01_BossAttack.anim
+- Assets/Enemy/Boss2/02_BossDeath.anim
+- Assets/Enemy/Boss3/03_BossWalk.anim
+- Assets/Enemy/Boss1/01_BossDeath.anim
+- Assets/Enemy/Boss2/02_BossWalk.anim
+- Assets/Enemy/Enemy3/03_Death.anim
+- Assets/Enemy/Enemy1/01_Walk.anim
+- Assets/Enemy/Enemy2/02_Death.anim
+- Assets/Enemy/Enemy1/01_Attack.anim
+- Assets/Enemy/Enemy2/02_Walk.anim
+- Assets/Enemy/Boss2/02_BossAttack.anim
+- Assets/Enemy/Enemy3/03_Walk.anim
+- Assets/Enemy/Enemy1/01_Death.anim
+- Assets/Enemy/Boss3/03_BossAttack.anim
+- Assets/Enemy/Enemy2/02_Attack.anim
+- Assets/Enemy/Boss1/01_BossWalk.anim
+Dependencies:
+- C:/Users/roitr/Documents/ProjectFiles/MOBIGAM/Projects/Into the Darkness - MOBIGAM/AssetBundles/Android/enemytexture
